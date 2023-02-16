@@ -1,11 +1,12 @@
 class Fizzbuzz
-  def fizzbuzz(n)
-    if(n % 15 == 0)
-      "fizzbuzz"
-    elsif (n % 5 == 0)
-      "buzz"
-    else (n % 3 == 0)
-      "fizz"
+  def fizzbuzz(num)
+    if (num % 15).zero?
+      'fizzbuzz'
+    elsif (num % 5).zero?
+      'buzz'
+    else
+      (num % 3).zero?
+      'fizz'
     end
   end
 end
