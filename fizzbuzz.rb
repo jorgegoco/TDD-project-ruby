@@ -4,8 +4,7 @@ class Fizzbuzz
       'fizzbuzz'
     elsif (num % 5).zero?
       'buzz'
-    elsif
-      (num % 3).zero?
+    elsif (num % 3).zero?
       'fizz'
     else
       num
