@@ -14,7 +14,7 @@ describe Solver do
     end
 
     it 'Test with number < 0' do
-      expect { raise "not allowed for negatives values" }.to raise_error("not allowed for negatives values")
+      expect { raise 'not allowed for negatives values' }.to raise_error('not allowed for negatives values')
     end
   end
 end
