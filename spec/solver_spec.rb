@@ -17,4 +17,10 @@ describe Solver do
       expect { raise 'not allowed for negatives values' }.to raise_error('not allowed for negatives values')
     end
   end
+
+  describe '#reverse' do
+    it 'reverses a string' do
+      expect(subject.reverse('hello')).to eq 'olleh'
+    end
+  end
 end
