@@ -133,9 +133,9 @@ You can deploy this project using:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/maaloum)
+- Twitter: [@twitterhandle](https://twitter.com/maaloum)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/maaloum)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
